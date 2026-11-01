@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Shell scripts must keep LF line endings or bash fails ("\r: command not found")
+*.sh   text eol=lf
+*.json text eol=lf

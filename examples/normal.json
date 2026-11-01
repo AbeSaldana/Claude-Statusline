@@ -1,0 +1,11 @@
+{
+  "model": { "display_name": "Opus 5.5" },
+  "effort": { "level": "high" },
+  "workspace": { "current_dir": "/Users/me/projects/my-app" },
+  "context_window": { "used_percentage": 18 },
+  "rate_limits": {
+    "five_hour": { "used_percentage": 9 },
+    "seven_day": { "used_percentage": 27 }
+  },
+  "cost": { "total_cost_usd": 1.42 }
+}
